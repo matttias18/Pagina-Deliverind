@@ -1,0 +1,37 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+
+}
+@media (max-width: 992px) {
+    #offcanvasNavbar {
+      width: 100%;
+    }
+  
+    #offcanvasNavbar .offcanvas-title{
+        font-size: 70px;
+    }
+    
+    #offcanvasNavbar .offcanvas-body {
+      font-size: 70px;
+
+    }
+  
+    #offcanvasNavbar .dropdown-menu{
+        font-size: 40px;        
+    }
+
+    #offcanvasNavbar .navbar-nav li {
+      padding: 10px;
+    }
+  }
+  
+
+  @media (max-width: 992px) {
+    #offcanvasRight {
+      width: 100%;
+    }
+  }  
+
+  .nav-link {
+    color: black;
+  }
